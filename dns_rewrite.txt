@@ -4,6 +4,7 @@
 ||*google*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*gstatic.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*youtube*^$dnsrewrite=NOERROR;A;51.105.104.217
+||*ggpht.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*ytimg.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*telegram*^$dnsrewrite=NOERROR;A;51.105.104.217
 
@@ -37,7 +38,8 @@
 ||*javldb*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*airav*^$dnsrewrite=NOERROR;A;51.105.104.217
 
-#||*amazon.co.jp^$dnsrewrite=NOERROR;A;51.105.104.217
+||*amazon.co.jp^$dnsrewrite=NOERROR;A;51.105.104.217
+||*dmm.co.jp^$dnsrewrite=NOERROR;A;51.105.104.217
 
 
 ||*hicario.com^$dnsrewrite=NOERROR;A;51.105.104.217
