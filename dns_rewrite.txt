@@ -7,7 +7,7 @@
 
 ||*netflix.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*fast.com^$dnsrewrite=NOERROR;A;51.105.104.217
-
+||*tiktok*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*spotify*^$dnsrewrite=NOERROR;A;51.105.104.217
 
 
@@ -38,4 +38,3 @@
 ||*hostloc.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*gravurefit.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*v2rayssr.com^$dnsrewrite=NOERROR;A;51.105.104.217
-
