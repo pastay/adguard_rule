@@ -37,6 +37,7 @@
 ||*javlibrary*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*javldb*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*airav*^$dnsrewrite=NOERROR;A;51.105.104.217
+||*umate.me*^$dnsrewrite=NOERROR;A;51.105.104.217
 
 ||*amazon.co.jp^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*dmm.co.jp^$dnsrewrite=NOERROR;A;51.105.104.217
