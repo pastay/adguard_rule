@@ -50,3 +50,4 @@
 ||*hostloc.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*gravurefit.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*v2rayssr.com^$dnsrewrite=NOERROR;A;51.105.104.217
+||*taohao.me^$dnsrewrite=NOERROR;A;51.105.104.217
