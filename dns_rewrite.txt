@@ -30,7 +30,7 @@
 ||*oaistatic.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*oaiusercontent.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*slack.com^$dnsrewrite=NOERROR;A;51.105.104.217
-
+||*frame.io*^$dnsrewrite=NOERROR;A;51.105.104.217
 
 ||espn.*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*nba.com^$dnsrewrite=NOERROR;A;51.105.104.217
