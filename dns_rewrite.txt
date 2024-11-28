@@ -47,7 +47,7 @@
 ||*dmm.co.jp^$dnsrewrite=NOERROR;A;51.105.104.217
 
 ||*vcgamers.com^$dnsrewrite=NOERROR;A;51.105.104.217
-||*hicario*^$dnsrewrite=NOERROR;A;51.105.104.217
+||*hicairo.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*bulianglin*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*twblogs.net^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*things.skin^$dnsrewrite=NOERROR;A;51.105.104.217
