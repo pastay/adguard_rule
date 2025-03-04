@@ -20,7 +20,8 @@
 ||*spotify*^$dnsrewrite=NOERROR;A;51.105.104.217
 
 
-
+||x.ai.com^$dnsrewrite=NOERROR;A;51.105.104.217
+||grok.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*anthropic.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*claude.ai^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*copilot.microsoft.com^$dnsrewrite=NOERROR;A;51.105.104.217
