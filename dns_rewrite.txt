@@ -8,10 +8,10 @@
 ||*ytimg.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*telegram*^$dnsrewrite=NOERROR;A;51.105.104.217
 
-||*github.com*^$dnsrewrite=NOERROR;A;51.105.104.217
-||*github.io*^$dnsrewrite=NOERROR;A;51.105.104.217
-||*githubusercontent.com*^$dnsrewrite=NOERROR;A;51.105.104.217
-||*githubassets.com^$dnsrewrite=NOERROR;A;51.105.104.217
+#||*github.com*^$dnsrewrite=NOERROR;A;51.105.104.217
+#||*github.io*^$dnsrewrite=NOERROR;A;51.105.104.217
+#||*githubusercontent.com*^$dnsrewrite=NOERROR;A;51.105.104.217
+#||*githubassets.com^$dnsrewrite=NOERROR;A;51.105.104.217
 
 
 ||*netflix.com^$dnsrewrite=NOERROR;A;51.105.104.217
