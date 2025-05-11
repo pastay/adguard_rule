@@ -1,5 +1,5 @@
 #DNS Rewrite
-||luyang.co^$denyallow=aria.luyang.co|rsshub.luyang.co|m3u.luyang.co,dnsrewrite=NOERROR;A;10.0.0.10,client=10.0.0.0/20
+||luyang.co^$denyallow=aria.luyang.co|rsshub.luyang.co|m3u.luyang.co,dnsrewrite=NOERROR;A;10.0.0.1,client=10.0.0.0/20
 
 ||*google*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*gstatic.com^$dnsrewrite=NOERROR;A;51.105.104.217
