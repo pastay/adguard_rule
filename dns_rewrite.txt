@@ -7,6 +7,7 @@
 ||*ggpht.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*ytimg.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*telegram*^$dnsrewrite=NOERROR;A;51.105.104.217
+||*reddit*^$dnsrewrite=NOERROR;A;51.105.104.217
 
 #||*github.com*^$dnsrewrite=NOERROR;A;51.105.104.217
 #||*github.io*^$dnsrewrite=NOERROR;A;51.105.104.217
