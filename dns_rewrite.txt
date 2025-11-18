@@ -44,7 +44,7 @@
 
 ||*javbus*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*javlibrary*^$dnsrewrite=NOERROR;A;51.105.104.217
-||*javldb*^$dnsrewrite=NOERROR;A;51.105.104.217
+||*javdb*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*airav*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*umate.me*^$dnsrewrite=NOERROR;A;51.105.104.217
 
