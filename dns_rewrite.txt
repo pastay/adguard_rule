@@ -40,7 +40,7 @@
 ||espn.*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*nba.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*cnn.com^$dnsrewrite=NOERROR;A;51.105.104.217
-
+||*zoneedit.com^$dnsrewrite=NOERROR;A;51.105.104.217
 
 ||*javbus*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*javlibrary*^$dnsrewrite=NOERROR;A;51.105.104.217
