@@ -9,7 +9,7 @@
 ||*telegram*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*reddit*^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*redd.it*^$dnsrewrite=NOERROR;A;151.101.1.140
-||*nextcloud.com^$dnsrewrite=NOERROR;A;151.101.1.140
+||*nextcloud.com^$dnsrewrite=NOERROR;A;51.105.104.217
 
 #||*github.com*^$dnsrewrite=NOERROR;A;51.105.104.217
 #||*github.io*^$dnsrewrite=NOERROR;A;51.105.104.217
