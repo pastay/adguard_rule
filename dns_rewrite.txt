@@ -30,9 +30,9 @@
 ||*copilot.microsoft.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*bing.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||ai.com^$dnsrewrite=NOERROR;A;51.105.104.217
-||ai.meta.com^$dnsrewrite=NOERROR;A;10.0.0.100
-||meta.com^$dnsrewrite=NOERROR;A;10.0.0.100
-||meta.ai^$dnsrewrite=NOERROR;A;10.0.0.100
+#||ai.meta.com^$dnsrewrite=NOERROR;A;10.0.0.100
+#||meta.com^$dnsrewrite=NOERROR;A;10.0.0.100
+#||meta.ai^$dnsrewrite=NOERROR;A;10.0.0.100
 ||*openai.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*chatgpt.com^$dnsrewrite=NOERROR;A;51.105.104.217
 ||*oaistatic.com^$dnsrewrite=NOERROR;A;51.105.104.217
